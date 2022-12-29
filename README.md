@@ -4,14 +4,14 @@
 ## Team MTSAC1
 
 
-Bot: Doomba-Prime
+## Bot: Doomba-Prime
 
 
-Division: Science Dvision
+## Division: Science Dvision
 
 
-World Championship Rank: #11
+## World Championship Rank: #11
 
 
-Stats: 14 Win Point; 12 Autonomous Point; 927 Strength Point
+## Stats: 14 Win Point; 12 Autonomous Point; 927 Strength Point
 
